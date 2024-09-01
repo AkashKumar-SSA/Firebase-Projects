@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643168583870",
+    "project_id": "signupandlogin-51428",
+    "storage_bucket": "signupandlogin-51428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643168583870:android:11768d92722acef1b29eef",
+        "android_client_info": {
+          "package_name": "com.example.signupandlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD39x20UFodMf7LrgtGaCx9JIcUhrmw4Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
